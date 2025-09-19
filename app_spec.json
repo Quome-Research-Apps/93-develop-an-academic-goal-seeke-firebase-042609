@@ -1,0 +1,1 @@
+{"name": "93-develop-an-academic-goal-seeke-firebase-042609", "spec": {"port": 8000, "containers": [{"image": "", "name": "93-develop-an-academic-goal-seeke-firebase-042609", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
